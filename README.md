@@ -23,6 +23,7 @@ Esse projeto foi desenvolvido na NLW(Next Level Week), um curso gratuito da [@Ro
 ### Passo a passo:
 Clone este repositorio na sua máquina com:
 - ``` git clone git@github.com:r0ssetto/letmeask.git ```
+
 Na pasta do projeto, execute
 - ```yarn start```
 Execute o aplicativo no modo de desenvolvimento
